@@ -26,7 +26,7 @@ def set_background(image_path):
 # Main app
 def main():
     # Set your background image (absolute path)
-    set_background(r"C:\Users\Sarthak tale\Desktop\sarthak\healthandfitness\pexels-olly-868704.jpg")  # Absolute path
+    set_background("pexels-olly-868704.jpg")  
     
     # Title and Description
     st.title("Fitness Buddy")
