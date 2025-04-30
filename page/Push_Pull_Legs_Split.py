@@ -134,3 +134,10 @@ st.markdown("""
 
 st.markdown("---")
 st.write("Created with ❤️ using Streamlit. Stay fit and healthy!")
+
+def main():
+    # your code...
+
+if __name__ == "__main__":
+    main()
+
