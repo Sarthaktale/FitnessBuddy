@@ -36,3 +36,9 @@ if weight and height:
         st.error("Invalid height or weight provided. Please check your inputs.")
 else:
     st.info("Please enter your weight and height to calculate your BMI.")
+    def main():
+    # your code...
+
+if __name__ == "__main__":
+    main()
+
