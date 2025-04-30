@@ -183,3 +183,10 @@ Stay focused, stay patient, and you'll see the results of your hard work over ti
 
 st.markdown("---")
 st.write("Created with ❤️ using Streamlit. Stay fit and healthy!")
+
+def main():
+    # your code...
+
+if __name__ == "__main__":
+    main()
+
